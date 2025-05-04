@@ -2,8 +2,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-                  Telegram: @spasatelnykrug;
-                  VK: https://vk.com/mayor.exe
+                  Telegram: @spasatelnykrug.
 
 <!---
 MAYOR-exe/MAYOR-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
